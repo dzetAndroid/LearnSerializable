@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnSerializable</string>
+    <string name="str_hello">hello</string>
+</resources>
